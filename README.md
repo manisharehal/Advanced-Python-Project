@@ -1,4 +1,4 @@
-# 🍔 Pythhon Projects
+# 🍔 Python Projects
 
 This repository contains the Python Projects that showcase my Python skills and grasp on Python concepts. 
 
